@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Foodie is a fully responsive template with a modern design element suitable for all types of food-related businesses.
 
-Currently, two official plugins are available:
+Tailwind css
+Fully Responsive
+Framer motion- animation on scroll effect 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Demo- https://foooodiee.netlify.app/
