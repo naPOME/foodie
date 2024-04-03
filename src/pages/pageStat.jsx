@@ -4,7 +4,7 @@ export const PageStat = () => {
   return (
     <div class=" bg-yellow-50 px-4 py-16 font-[sans-serif] text-white mb-5"
     style={{
-        backgroundImage: "url('https://images.pexels.com/photos/920570/pexels-photo-920570.jpeg?auto=compress&cs=tinysrgb&w=600')",
+        backgroundImage: "url('https://cdn.pixabay.com/photo/2017/11/08/22/18/spaghetti-2931846_1280.jpg')",
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center'

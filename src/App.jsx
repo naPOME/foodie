@@ -13,15 +13,17 @@ import { Book } from './pages/book'
 import Gallery from './pages/gallery'
 import { Contact } from './pages/contact'
 import { Footer } from './components/footer'
-
+import { motion, useViewportScroll, useTransform } from 'framer-motion';
+import SmoothScrollButton from './components/smoothScrollButton'
 
 
 function App() {
   
 
   return (
-    
-    <div className=" mx-auto w-full">
+    <div>
+    <SmoothScrollButton/>   
+     <div className="  w-full">
    <Header/>
     <Hero/>
     <AboutUs />
@@ -35,6 +37,7 @@ function App() {
     <Gallery/>
     <Contact/>
     <Footer/>
+  </div>
   </div>
   )
 }

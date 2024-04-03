@@ -12,10 +12,12 @@
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@react-spring/web": "^9.7.3",
     "@react-three/fiber": "^8.15.19",
     "embla-carousel-react": "^8.0.0",
     "flowbite": "^2.3.0",
     "font": "^0.0.4",
+    "framer-motion": "^11.0.24",
     "glide": "^0.2.0",
     "google": "^2.1.0",
     "gsap": "^3.12.5",
